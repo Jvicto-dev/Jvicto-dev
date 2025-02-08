@@ -1,4 +1,7 @@
   Olá! Meu nome é João Victo, programador e amante da tecnologia.
+  <h1 align="center">  Hello World <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></h1>
+  Com 5 anos de experiˆencia busco uma oportunidade como desenvolvedor Fullstack para contribuir com projetos
+inovadores, utilizando minhas habilidades em desenvolvimento web e Apis.
   ##
 
 <div>
