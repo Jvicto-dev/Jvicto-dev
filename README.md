@@ -5,8 +5,10 @@ inovadores, utilizando minhas habilidades em desenvolvimento web e Apis. Veja ma
 <div>
   <a href="https://github.com/Jvicto-Dev">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvicto-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvicto-Dev&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvicto-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvicto-Dev&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+</div>
 </div>
   
 <table align="">
